@@ -8,3 +8,6 @@ The Olmo vs Gundogan heatmap was inspired by Dani Olmo's recent Barça registrat
   so Barça had the financial room to register Olmo. The players play the same position (attacking midfield), but I wanted to see their heatmaps 
   in arguably one of the best games of UEFA Euro 2024 where they played against each other. I want to see what space they occupy and what FC Barcelona
   will be gaining and losing with this registration.
+
+The FC Barcelona passmap looks at the team's passing in the UEFA champions league final 2008/09 (arguably the best team of all time)
+  I used the networkx package to visualize a network of their passes - the distinct 'tiki taka' (short, quick, successive passes) style.
